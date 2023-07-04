@@ -19,7 +19,6 @@ export class TodoListComponent implements DoCheck {
   }
 
   ngOnInit(): void {
-
   }
 
   public deleteTask(event: number) {
